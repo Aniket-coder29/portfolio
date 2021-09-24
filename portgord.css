@@ -6,6 +6,9 @@
     background-color: lightseagreen;
     color: white;
 }
+/* .ref{ */
+    /* padding: 2.5rem; */
+/* } */
 header{
     padding: 9px;
     /* background: lightcoral; */
@@ -14,8 +17,8 @@ header{
     width: 100%;
 
 }
-.a{
-    padding-top: 5rem;
+section{
+    padding: 5.2rem;
 }
 body{
     /* background-color: #6c757d; */
