@@ -47,7 +47,6 @@ h1{
 }
 h1:hover{
     text-decoration: underline;
-    /* background-color: #0081f9; */
     color: wheat;
     font-size: 2.1rem;
     transition: 0.65s;
@@ -64,7 +63,6 @@ h3 a{
 }
 h3 a:hover{
     text-decoration: underline;
-    /* background-color: #0081f9; */
     color: rgb(199, 114, 199);
     text-transform:uppercase;
     font-size: 1.6rem;
@@ -87,11 +85,9 @@ img{
     padding: 12px;
     font-family: 'EB Garamond', serif;
     font-size: 28px;
-    /* font-style: italic; */
     background-color:#248277;
     background-color: gray;
     color: honeydew;
-    /* border: 2px solid greenyellow; */
 }
 .cont{
     font-size: 24px;
@@ -107,7 +103,6 @@ img{
 }
 .f{
     background-color: lightblue;
-    
 }
 table{
     border-collapse: collapse;
